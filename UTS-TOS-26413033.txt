@@ -1,0 +1,10 @@
+1.
+curl -l http://wwww.elevenia.co.id/prd-apple-iphone-7-plus-black-128gb-garansi-6242166 | grep -l | <span class="price normalDisc notranslate">Rp 16.210.600</span>
+
+crontab -e
+0 7-19 * * 1-5 /usr/bin/my-job
+
+mail -s "Elevenia Check" "m26413033@john.petra.ac.id" << if my-job < 15000000
+
+2.
+curl -l http://stats.labs.apnic.net/ipv6/ID |
