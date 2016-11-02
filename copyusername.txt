@@ -1,0 +1,1 @@
+awk -F ':' 'BEGIN{print"email"} {print $1"@petra.ac.id";}' /etc/passwd > text.txt
